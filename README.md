@@ -54,7 +54,8 @@ I got my links from: [https://www.vrt.be/nl/aanbod/kijk-en-luister/radio-luister
 
 When you want to use the Web-interface the command __*sudo ./src/ympd --webport 80*__ should be excecuted **In a second terminal!!**  
 If the command is not excecuted in a different terminal, the program will NOT work.  
-The Web-interface can be used to change channels, but not to change the volume.
+The Web-interface can be used to change channels, but not to change the volume.  
+To access the Web-interface, simply go to: __*http://<IP-address_of_your_pi>*__
 
 ## Pictures:
 

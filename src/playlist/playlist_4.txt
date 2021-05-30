@@ -1,0 +1,4 @@
+http://icecast.vrtcdn.be/radio1-high.mp3
+http://icecast.vrtcdn.be/ra2ant-high.mp3
+http://icecast.vrtcdn.be/stubru-high.mp3
+http://icecast.vrtcdn.be/mnm_hits-high.mp3

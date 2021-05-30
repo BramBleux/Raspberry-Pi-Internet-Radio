@@ -1,0 +1,17 @@
+http://icecast.vrtcdn.be/radio1-high.mp3
+http://icecast.vrtcdn.be/radio1_classics-high.mp3
+http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3
+http://icecast.vrtcdn.be/radio2_benebene-high.mp3
+http://icecast.vrtcdn.be/ra2ant-high.mp3
+http://icecast.vrtcdn.be/radio2_unwind-high.mp3
+http://icecast.vrtcdn.be/klara-high.mp3
+http://icecast.vrtcdn.be/klaracontinuo-high.mp3
+http://icecast.vrtcdn.be/stubru-high.mp3
+http://icecast.vrtcdn.be/stubru_bruut-high.mp3
+http://icecast.vrtcdn.be/stubru_hiphophooray-high.mp3
+http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3
+http://icecast.vrtcdn.be/stubru_untz-high.mp3
+http://icecast.vrtcdn.be/mnm_urb-high.mp3
+http://icecast.vrtcdn.be/mnm_hits-high.mp3
+http://icecast.vrtcdn.be/mnm_90s00s-high.mp3
+http://icecast.vrtcdn.be/ketnetradio-high.mp3

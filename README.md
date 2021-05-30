@@ -18,6 +18,8 @@ currently playing and the LCD display will show you: the station name, the
 volume, the IP address of the web interface (= IP address of the Pi) and a logo if available. (This part is hard coded for some Dutch radio stations)  
   
 When the program is stoped (with CTRL + C) The stepper motor will return to its starting position before stopping the radio.
+  
+To start the radio simply use the command: __*sudo python3 ./src/main.py*__
 
 
 ## Components used:
@@ -50,7 +52,7 @@ I got my links from: [https://www.vrt.be/nl/aanbod/kijk-en-luister/radio-luister
 
 ## Explanation about the Web-interface:
 
-When you want to use the Web-interface the command __*sudo ./ympd --webport 80*__ should be excecuted **In a second terminal!!**  
+When you want to use the Web-interface the command __*sudo ./src/ympd --webport 80*__ should be excecuted **In a second terminal!!**  
 If the command is not excecuted in a different terminal, the program will NOT work.  
 The Web-interface can be used to change channels, but not to change the volume.
 

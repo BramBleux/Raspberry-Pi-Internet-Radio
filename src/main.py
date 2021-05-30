@@ -1,7 +1,7 @@
 # Start web client: sudo ./src/ympd --webport 80
 
 ###############################################################################
-#								IMPORTING LIBRARIES	
+#				IMPORTING LIBRARIES	
 ###############################################################################
 import time
 import busio
@@ -19,7 +19,7 @@ from time import sleep
 import subprocess
 
 ###############################################################################
-#								INITIALISATION	
+#				INITIALISATION	
 ###############################################################################
 
 # Setting pins for stepper motor in a list (Later used)
@@ -61,7 +61,7 @@ draw = ImageDraw.Draw(image)
 
 
 ###############################################################################
-#								FUNCTIONS	
+#				FUNCTIONS	
 ###############################################################################
 
 # read SPI data 8 possible adc's (0 thru 7) 
@@ -222,7 +222,7 @@ def LcdAdjust(volume):
 
 
 ###############################################################################
-#								MAIN PROGRAM	
+#				MAIN PROGRAM	
 ###############################################################################
 try:
 	# Making the playlist and putting the number of stations in a variable
